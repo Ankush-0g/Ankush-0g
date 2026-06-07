@@ -28,7 +28,7 @@ BCA GRADUATE | FULL-STACK JAVA DEVELOPER
 ![](https://streak-stats.demolab.com/?user=Ankush-0g&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankush-0g&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-<img src="https://github.com/Ankush-0g/Ankush-0g/blob/main/Ag.svg" />
+<img src= "https://github.com/Ankush-0g/Ankush-0g/blob/main/gity.svg" />
 <br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ankush-0g&theme=react&no-frame=false&no-bg=true&margin-w=4)
