@@ -34,7 +34,7 @@ BCA GRADUATE | FULL-STACK JAVA DEVELOPER
 <br>
 ## 🏆 Certifications & Achievements
 
-### 🏢 Infosys Springboard(2026-2026)
+### 🏢 Infosys Springboard(2025-2026)
 * **Java Stack** 
   * Java Basics
   * Java OOPs (Object-Oriented Programming)
