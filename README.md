@@ -32,8 +32,18 @@ BCA GRADUATE | FULL-STACK JAVA DEVELOPER
 <br>
 <img src= "https://github.com/Ankush-0g/Ankush-0g/blob/main/gity.svg" />
 <br>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ankush-0g&theme=react&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Certifications & Achievements
+
+### 🏢 Infosys Springboard
+* **Java Stack** 
+  * Java Basics
+  * Java OOPs (Object-Oriented Programming)
+  * Spring Boot Framework
+* **Python Programming**
+  * Advanced Python Programming
+* **Data Management**
+  * Database Management Systems (DBMS) & SQL
+
 
 
 
