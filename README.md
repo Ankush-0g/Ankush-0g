@@ -58,6 +58,6 @@ BCA GRADUATE | FULL-STACK JAVA DEVELOPER
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ankush-0g&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
